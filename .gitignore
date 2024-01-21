@@ -1,0 +1,6 @@
+# .gitignore
+.idea/
+Eureka_Server1/Eureka_Server/target/
+TNB_gestion/TNB_gestion/target/
+Tnb_Client/Tnb_Client/target/
+db/mysql.sock

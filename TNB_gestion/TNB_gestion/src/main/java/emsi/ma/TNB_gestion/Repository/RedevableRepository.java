@@ -1,0 +1,10 @@
+package emsi.ma.TNB_gestion.Repository;
+
+import emsi.ma.TNB_gestion.Model.Redevable;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface RedevableRepository extends JpaRepository<Redevable , Integer> {
+
+}
